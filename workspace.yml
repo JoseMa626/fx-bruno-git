@@ -8,6 +8,8 @@ collections:
     path: "collections/DocuSign"
   - name: "Aviation API"
     path: "collections/Aviation API"
+  - name: "FX Aviation"
+    path: "collections/FX Aviation"
 
 specs:
 
