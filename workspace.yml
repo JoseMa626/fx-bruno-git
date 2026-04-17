@@ -1,0 +1,14 @@
+opencollection: 1.0.0
+info:
+  name: "FX-Bruno-Git"
+  type: workspace
+
+collections:
+  - name: "DocuSign"
+    path: "collections/DocuSign"
+  - name: "Aviation API"
+    path: "collections/Aviation API"
+
+specs:
+
+docs: ''
